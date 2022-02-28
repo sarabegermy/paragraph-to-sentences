@@ -5,6 +5,7 @@
 #https://www.debuggex.com/cheatsheet/regex/python
 #https://www.youtube.com/watch?v=AEE9ecgLgdQ
 #https://www.youtube.com/watch?v=K8L6KVGG-7o
+#https://docs.python.org/3/library/re.html
 
 import re
 def get_sentences(paragraph):
